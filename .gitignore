@@ -1,0 +1,9 @@
+*
+!*/
+!.gitignore
+!README.md
+!madow.rex
+!checksums.json
+!assets/dian115.jpg
+!docs/callback-server-v1.md
+!docs/plugin-platform/examples/dian115-player/dian115.rex.js
