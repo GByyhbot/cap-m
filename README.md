@@ -4,7 +4,7 @@
 
 在 REX 中浏览、播放电影和剧集资源，也可转存到自己的 115 网盘。
 
-当前版本：**1.4.2**
+当前版本：**1.4.3**
 
 ## 导入
 
@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/madow.rex
 | --- | --- |
 | DIAN115 | 自己的 DIAN115 地址，以及系统 OpenAPI Key |
 | 独立回调服务器 | 服务提供方给出的域名，例如 `madow.example`，以及 MADOW API Key |
+
+DIAN115 支持 HTTP、HTTPS 和内网地址，例如 `http://192.168.1.100:8080`；省略协议时默认使用 HTTP。
 
 使用 DIAN115 时，如需查询站点资源，请在“虚拟缓存”页面开启站点资源查询，并配置好站点账号。
 
