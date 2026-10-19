@@ -10,7 +10,7 @@
       "title": "MADOW X DIAN115",
       "description": "电影、剧集资源播放与转存",
       "requiredVersion": "0.0.1",
-      "version": "1.3.2",
+      "version": "1.4.0",
       "author": "MADOW X DIAN115",
       "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/dian115.jpg",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/docs/plugin-platform/examples/dian115-player/dian115.rex.js"
