@@ -1,6 +1,6 @@
 # MADOW X DIAN115 回调服务器规范 v1
 
-本规范适用于没有 DIAN115 的播放器用户。播放器配置回调服务器的基础地址和 MADOW  API Key，以 HTTPS JSON 调用查询、解锁、统计和清单导出接口。播放器持有自己的 115 Cookie，直接向 115 取链和转存。回调服务器不接收 Cookie，不代理视频，也不代用户转存。
+本规范供回调服务提供方接入使用。播放器用户只需分别填写服务器域名和 MADOW API Key；插件默认使用 HTTPS，并自动补全 `/api/portal/player/v1/virtual-cache`，作为下文的基础地址。播放器持有自己的 115 Cookie，直接向 115 取链和转存。回调服务器不接收 Cookie，不代理视频，也不代用户转存。已有完整接口地址继续兼容，不会重复拼接。
 
 参考实现位于 license-server：基础路径 `/api/portal/player/v1/virtual-cache`。DIAN115 内部使用独立的加密 SDK 接口 `/api/portal/openapi/virtual-cache/player-{query,resolve,stats}`，独立回调不需要该私有 SDK。原有 `/api/portal/openapi/virtual-cache/query` 的元数据协议保持原样。
 
