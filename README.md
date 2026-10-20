@@ -8,12 +8,15 @@
 
 ## 导入模块
 
-在 REX 中导入你的 **自部署服务器地址/REX**，例如：
+在 REX 中导入你的 **自部署服务器地址/rex**，例如：
 
 ```text
-http://192.168.1.100:8080/REX
-https://mydomain.com/REX 
+http://192.168.1.100:8080/rex
+https://mydomain.com/rex
 ```
+
+**请勿泄露自己部署地址**
+
 
 也可以通过 **[GitHub 一键导入](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fmania%2Fmania.rex.js%3Fv%3D2.0.4)**，或复制集合地址：
 
