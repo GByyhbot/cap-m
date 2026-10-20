@@ -4,7 +4,7 @@
   "payload_comments": 0,
   "sha256": {
     ".gitignore": "70933269d263ccd1f113c4cf1ea2e359ca5c3681fa4d995167841f9e7684d392",
-    "README.md": "426b9a4a924d46ae9e0865850d3c8202eca7065656f3aeb748b0289796ffe23f",
+    "README.md": "b9af55bca7af45a2d6ef50d0a1e049adcc3c1ea46eb523a4b90499d6ee6dd8bc",
     "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
     "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "5f862a6ea72de69a320658976ed83408d7c86819057c11d16811b38f73d0daa4",
     "docs/plugin-platform/examples/mania/mania.rex.js": "5f862a6ea72de69a320658976ed83408d7c86819057c11d16811b38f73d0daa4",
