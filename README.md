@@ -12,6 +12,7 @@
 
 ```text
 http://192.168.1.100:8080/REX
+https://mydomain.com/REX 
 ```
 
 也可以通过 **[GitHub 一键导入](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fmania%2Fmania.rex.js%3Fv%3D2.0.4)**，或复制集合地址：
