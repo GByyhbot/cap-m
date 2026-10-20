@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "format": "REXENC",
   "payload_comments": 0,
   "sha256": {
-    ".gitignore": "ea0fe85a8165e2ceb3932f14aba3556cadcd6c37bd99bc594971bddc77ee48ba",
-    "README.md": "50a328c8ea6fd067c6588c9b158a39c023bbcda7136fc21187ea1efb8862dc23",
-    "madow.rex": "7bd84309459197ad1c95cd554ae359c477c924207be51934c535704cec4e530b",
-    "assets/dian115.jpg": "b45998e77803b7255e2d473dc2d81a6837962ea685a02f52bd5df0a15044f9aa",
-    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "727782a8e2bf8ba3be64e962896cb9ce68f0c14a9999f973e0a280ffd766ba23"
+    ".gitignore": "4436dd45858583005adbd5fd97705e6f003951972ccfe00baf225f323c79aa73",
+    "README.md": "891e3eb325a4b61a857427dfa7e250b5179c1d1a334c058e098e35d038d67607",
+    "madow.rex": "cd5bf30f9352e2c765af6a872ae361de3b3bc7b59906943b41f3749f75a20a58",
+    "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
+    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "649909399b756374743750c134d9b00c8c0cfa971009d8cfe68c09d8f2fb51fb"
   }
 }
