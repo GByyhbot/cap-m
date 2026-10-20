@@ -1,13 +1,13 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "format": "REXENC",
   "payload_comments": 0,
   "sha256": {
     ".gitignore": "ea0fe85a8165e2ceb3932f14aba3556cadcd6c37bd99bc594971bddc77ee48ba",
-    "README.md": "484bea37ba9a3211f6b4a21be19e72915e12738d830f3c9c4c1b61347cb4dac3",
-    "madow.rex": "1f26d4b18ee79c07dff1446ceb2ce87dcbb5d87855c417d638671a53e51693ca",
+    "README.md": "12a163852ab7b29244a3bfbfb77cf336f4bcf154afecbc61358a1e00dba187c7",
+    "madow.rex": "0c8f16edde31d12fe5e6c19fc17ee2cd47fdcaccadff3c8e56c9e4dd319412bd",
     "assets/dian115.jpg": "b45998e77803b7255e2d473dc2d81a6837962ea685a02f52bd5df0a15044f9aa",
     "docs/callback-server-v1.md": "ce51a40104eba50034849d8bec823ed30d777c6209560b4b68dac988315c47c9",
-    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "64b4b1024cb60fea360f6787dc2c69ac2c61b9bf374818fb631e271d9116b79d"
+    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "7ee0b58242d70631b1bdc11b13128b6c049ea2fe281e375c193fc94ffbae2801"
   }
 }

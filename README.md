@@ -4,16 +4,16 @@
 
 在 REX 中浏览、播放电影和剧集资源，也可转存到自己的 115 网盘。
 
-当前版本：**1.4.4**
+当前版本：**1.4.5**
 
 ## 导入
 
-**[一键导入 REX](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fdian115-player%2Fdian115.rex.js)**
+**[一键导入 REX](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fdian115-player%2Fdian115.rex.js%3Fv%3D1.4.5)**
 
 如果没有自动打开 REX，可复制下面的集合地址，在播放器中导入：
 
 ```text
-https://raw.githubusercontent.com/zxxlxj/rex-m/main/madow.rex
+https://raw.githubusercontent.com/zxxlxj/rex-m/main/madow.rex?v=1.4.5
 ```
 
 ## 填写设置
@@ -43,6 +43,7 @@ DIAN115 支持 HTTP、HTTPS 和内网地址，例如 `http://192.168.1.100:8080`
 
 ## 使用提醒
 
+- 1.4.5 修复安装、更新模块时的执行错误；通过上方地址导入即可。
 - 浏览资源不会解锁；播放或确认转存时，按站点规则自动解锁。
 - 播放链接自动缓存，最长两小时；115 更早到期时会提前失效。
 - 优化资源与播放缓存，减少重复读取和请求；旧缓存会自动迁移，首次升级可能稍慢。
