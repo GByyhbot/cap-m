@@ -1,19 +1,19 @@
 {
   "name": "MANIA",
   "title": "MANIA",
-  "description": "媒体缓存与播放",
-  "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.2",
-  "logo": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.2",
+  "description": "连接你自行部署的媒体服务，获取资源并播放。",
+  "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.3",
+  "logo": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.3",
   "widgets": [
     {
       "id": "dian115.virtual-cache",
       "title": "MANIA",
-      "description": "媒体缓存与播放",
+      "description": "连接你自行部署的媒体服务，获取资源并播放。",
       "requiredVersion": "0.0.1",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "author": "MANIA",
-      "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.2",
-      "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/docs/plugin-platform/examples/mania/mania.rex.js?v=2.0.2"
+      "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.3",
+      "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/docs/plugin-platform/examples/mania/mania.rex.js?v=2.0.3"
     }
   ]
 }

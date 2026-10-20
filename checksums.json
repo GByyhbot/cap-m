@@ -1,14 +1,14 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "format": "REXENC",
   "payload_comments": 0,
   "sha256": {
     ".gitignore": "70933269d263ccd1f113c4cf1ea2e359ca5c3681fa4d995167841f9e7684d392",
-    "README.md": "338da68aaa0c5abe06c3001ac9df841d6461f02cd1009641fcac696adbb0817b",
-    "madow.rex": "2dfd86930230b8b282c2dda72172b227eb02cf76fc5c779c4f133e2e9dc4b7ce",
-    "mania.rex": "2dfd86930230b8b282c2dda72172b227eb02cf76fc5c779c4f133e2e9dc4b7ce",
+    "README.md": "c07461b9a6a7ad827490ff5bcee4317745df3c1595ffedef8e6613d2d5c63392",
+    "madow.rex": "85312bc79c087c53a2c632a1eabe9221944adca6a565ff38d20c88d6c72f0ba1",
+    "mania.rex": "85312bc79c087c53a2c632a1eabe9221944adca6a565ff38d20c88d6c72f0ba1",
     "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
-    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "fb4379c17bd364c26bcab728f2c6e1196bdf934a9f379ce350c4aaf3aeff1393",
-    "docs/plugin-platform/examples/mania/mania.rex.js": "fb4379c17bd364c26bcab728f2c6e1196bdf934a9f379ce350c4aaf3aeff1393"
+    "docs/plugin-platform/examples/dian115-player/dian115.rex.js": "685e0811d5eedf78112dde8d32c5faf4e4e9e32146226deea8c98852270828a8",
+    "docs/plugin-platform/examples/mania/mania.rex.js": "685e0811d5eedf78112dde8d32c5faf4e4e9e32146226deea8c98852270828a8"
   }
 }
