@@ -2,9 +2,7 @@
 !*/
 !.gitignore
 !README.md
-!madow.rex
 !mania.rex
 !checksums.json
 !assets/mania.png
-!docs/plugin-platform/examples/dian115-player/dian115.rex.js
 !docs/plugin-platform/examples/mania/mania.rex.js
