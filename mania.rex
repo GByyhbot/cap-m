@@ -13,7 +13,7 @@
       "version": "2.0.4",
       "author": "MANIA",
       "icon": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.0.4",
-      "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/docs/plugin-platform/examples/mania/mania.rex.js?v=2.0.4&r=3ac3e237a4a4"
+      "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/docs/plugin-platform/examples/mania/mania.rex.js?v=2.0.4&r=223d06641629"
     }
   ]
 }
