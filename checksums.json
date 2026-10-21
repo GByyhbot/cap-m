@@ -4,9 +4,9 @@
   "payload_comments": 0,
   "sha256": {
     ".gitignore": "38f26dd7673ccaf6991588b832d9c88830f3a821fb9d56c8807c11a020f62c46",
-    "README.md": "b9af55bca7af45a2d6ef50d0a1e049adcc3c1ea46eb523a4b90499d6ee6dd8bc",
+    "README.md": "1baca30b0e996228006e648d676be1dde5ad0a913e75c34f96716862e48dda68",
     "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
-    "docs/plugin-platform/examples/mania/mania.rex.js": "5f862a6ea72de69a320658976ed83408d7c86819057c11d16811b38f73d0daa4",
-    "mania.rex": "783c77e38b139bad151dd426276d5c20648e8f741eaaf629998d8d18bff4aaa0"
+    "docs/plugin-platform/examples/mania/mania.rex.js": "3ac3e237a4a42d4b0291e2c6b0ff324f8bb0ebcc96391c6f7345a5067531147d",
+    "mania.rex": "4a1c865e0ae164858a17d1aa064728c3101d57f19ada48a8ee3a3f4cf5f32d75"
   }
 }
