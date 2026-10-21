@@ -22,3 +22,7 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/mania.rex
 3. 在 REX 中将“媒体缓存”添加到资源库，浏览已缓存的电影和剧集。
 
 资源库只展示自部署服务中已缓存的媒体；播放账号和模块说明在各自入口管理。
+
+## 戏精俱乐部
+
+[查看图标包和资源卡片配置包，预览并导入](./xijing-club/)
