@@ -3,10 +3,10 @@
   "format": "REXENC",
   "payload_comments": 0,
   "sha256": {
-    ".gitignore": "38f26dd7673ccaf6991588b832d9c88830f3a821fb9d56c8807c11a020f62c46",
-    "README.md": "722dcee3666014ae497644687be9c59449874ff7a39e4f112cfdf3c3a2035e10",
+    ".gitignore": "df4437fec1421d69bc2c86f609ff11b0d5a74d19692b0b12a5e1a4437d1be43a",
+    "README.md": "80249df71b00b5043ee0838dc0ae2894ef1627c81bea136f30c7fee5d8431b94",
     "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
-    "docs/plugin-platform/examples/mania/mania.rex.js": "223d06641629ae954c652200d134c7d3075d6b8ecde5159ab380e471db5c6b2d",
+    "docs/plugin-platform/examples/mania/mania.rex.js": "e90c52c40e44f61be1a1aa15f28467a33ce9072b0ad0179cb6fc33be0303496f",
     "mania.rex": "6c84a549b81893d52291f04b8c5b16e9c5b9ee03c3ce0fcfc1c430787158bdae"
   }
 }
