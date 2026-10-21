@@ -9,10 +9,10 @@
 ## 导入模块
 
 
-通过 **[GitHub 一键导入](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fmania%2Fmania.rex.js%3Fv%3D2.0.4)**，或复制集合地址：
+通过 **[GitHub 一键导入](https://rexnow.tv/widget?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzxxlxj%2Frex-m%2Fmain%2Fdocs%2Fplugin-platform%2Fexamples%2Fmania%2Fmania.rex.js)**，或复制集合地址：
 
 ```text
-https://raw.githubusercontent.com/zxxlxj/rex-m/main/mania.rex?v=2.0.4
+https://raw.githubusercontent.com/zxxlxj/rex-m/main/mania.rex
 ```
 
 ## 开始使用
