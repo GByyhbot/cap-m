@@ -3,259 +3,259 @@
   "description": "64 枚多彩又有戏的小怪兽，陪你找片、追剧、快乐开演。",
   "icons": [
     {
-      "name": "首页 · 宅得理直气壮",
+      "name": "首页",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/home.png"
     },
     {
-      "name": "发现 · 片荒侦察兵",
+      "name": "发现",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/discover.png"
     },
     {
-      "name": "媒体库 · 囤片小仓鼠",
+      "name": "媒体库",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/library.png"
     },
     {
-      "name": "搜索 · 瞪大眼找片",
+      "name": "搜索",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/search.png"
     },
     {
-      "name": "收藏 · 心动抱紧紧",
+      "name": "收藏",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/favorites.png"
     },
     {
-      "name": "待看 · 先码后看",
+      "name": "待看",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/watchlist.png"
     },
     {
-      "name": "观看记录 · 时间都去哪了",
+      "name": "观看记录",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/history.png"
     },
     {
-      "name": "我的 · 本人比头像圆",
+      "name": "我的",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/account.png"
     },
     {
-      "name": "电影 · 导演请开饭",
+      "name": "电影",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/movies.png"
     },
     {
-      "name": "剧集 · 再看亿集",
+      "name": "剧集",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/tv.png"
     },
     {
-      "name": "动漫 · 热血不用加热",
+      "name": "动漫",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/anime.png"
     },
     {
-      "name": "纪录片 · 认真看世界",
+      "name": "纪录片",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/documentary.png"
     },
     {
-      "name": "儿童 · 年龄只是缓存",
+      "name": "儿童",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/kids.png"
     },
     {
-      "name": "音乐演出 · 耳朵先入场",
+      "name": "音乐演出",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/concert.png"
     },
     {
-      "name": "直播 · 正在现场直播",
+      "name": "直播",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/live.png"
     },
     {
-      "name": "专题合集 · 一网打尽",
+      "name": "专题合集",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/collection.png"
     },
     {
-      "name": "热门 · 热到冒汗",
+      "name": "热门",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/hot.png"
     },
     {
-      "name": "趋势 · 热度起飞",
+      "name": "趋势",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/trending.png"
     },
     {
-      "name": "高分 · 口碑有点重",
+      "name": "高分",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/top-rated.png"
     },
     {
-      "name": "最新上架 · 刚刚破壳",
+      "name": "最新上架",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/new.png"
     },
     {
-      "name": "即将上线 · 等到长爆米花",
+      "name": "即将上线",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/upcoming.png"
     },
     {
-      "name": "随机推荐 · 今晚听骰子的",
+      "name": "随机推荐",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/random.png"
     },
     {
-      "name": "筛选 · 只留对胃口的",
+      "name": "筛选",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/filter.png"
     },
     {
-      "name": "排序 · 给快乐排排队",
+      "name": "排序",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/sort.png"
     },
     {
-      "name": "播放 · 开饭式观影",
+      "name": "播放",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/play.png"
     },
     {
-      "name": "暂停 · 中场嚼两口",
+      "name": "暂停",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/pause.png"
     },
     {
-      "name": "继续观看 · 沙发已经留位",
+      "name": "继续观看",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/continue.png"
     },
     {
-      "name": "下一集 · 手比脑子快",
+      "name": "下一集",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/next.png"
     },
     {
-      "name": "循环 · 再来一桶",
+      "name": "循环",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/repeat.png"
     },
     {
-      "name": "倍速 · 剧情快点跑",
+      "name": "倍速",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/speed.png"
     },
     {
-      "name": "画质 · 清楚得发亮",
+      "name": "画质",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/quality.png"
     },
     {
-      "name": "全屏 · 快乐撑满屏",
+      "name": "全屏",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/fullscreen.png"
     },
     {
-      "name": "字幕 · 一字不能漏",
+      "name": "字幕",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/subtitles.png"
     },
     {
-      "name": "弹幕 · 嘴替已上线",
+      "name": "弹幕",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/danmu.png"
     },
     {
-      "name": "翻译 · 跨服也能聊",
+      "name": "翻译",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/translate.png"
     },
     {
-      "name": "音轨 · 耳朵换个频道",
+      "name": "音轨",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/audio.png"
     },
     {
-      "name": "音量 · 快乐大声点",
+      "name": "音量",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/volume.png"
     },
     {
-      "name": "静音 · 偷偷嚼两口",
+      "name": "静音",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/mute.png"
     },
     {
-      "name": "投屏 · 把快乐扔过去",
+      "name": "投屏",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/cast.png"
     },
     {
-      "name": "画中画 · 摸鱼小窗口",
+      "name": "画中画",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/pip.png"
     },
     {
-      "name": "下载 · 接住这一集",
+      "name": "下载",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/downloads.png"
     },
     {
-      "name": "上传 · 快乐往上冒",
+      "name": "上传",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/upload.png"
     },
     {
-      "name": "本地文件 · 硬盘有点撑",
+      "name": "本地文件",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/local.png"
     },
     {
-      "name": "云盘 · 云上躺一会儿",
+      "name": "云盘",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/cloud.png"
     },
     {
-      "name": "媒体服务器 · 机房干饭员",
+      "name": "媒体服务器",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/server.png"
     },
     {
-      "name": "网络 · 信号靠耳朵",
+      "name": "网络",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/network.png"
     },
     {
-      "name": "网络文件夹 · 文件夹长了云",
+      "name": "网络文件夹",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/webdav.png"
     },
     {
-      "name": "链接解析 · 这就接上了",
+      "name": "链接解析",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/link.png"
     },
     {
-      "name": "设置 · 拧巴小工程师",
+      "name": "设置",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/settings.png"
     },
     {
-      "name": "刷新 · 再抖一桶出来",
+      "name": "刷新",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/refresh.png"
     },
     {
-      "name": "同步 · 两边都要有",
+      "name": "同步",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/sync.png"
     },
     {
-      "name": "通知 · 开播叫醒我",
+      "name": "通知",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/notifications.png"
     },
     {
-      "name": "帮助 · 片海救生员",
+      "name": "帮助",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/help.png"
     },
     {
-      "name": "隐私锁 · 我的私藏别动",
+      "name": "隐私锁",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/lock.png"
     },
     {
-      "name": "分享 · 快乐折成飞机",
+      "name": "分享",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/share.png"
     },
     {
-      "name": "删除 · 舍不得也得扔",
+      "name": "删除",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/delete.png"
     },
     {
-      "name": "成功 · 这下稳了",
+      "name": "成功",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/success.png"
     },
     {
-      "name": "出错 · 爆米花翻车了",
+      "name": "出错",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/error.png"
     },
     {
-      "name": "离线 · 网线请上班",
+      "name": "离线",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/offline.png"
     },
     {
-      "name": "暂无内容 · 桶比我还空",
+      "name": "暂无内容",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/empty.png"
     },
     {
-      "name": "加载中 · 快乐正在漏下来",
+      "name": "加载中",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/loading.png"
     },
     {
-      "name": "夜间模式 · 月亮也追剧",
+      "name": "夜间模式",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/night.png"
     },
     {
-      "name": "文件夹 · 精神口粮袋",
+      "name": "文件夹",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/folder.png"
     },
     {
-      "name": "海报墙 · 四格也嫌少",
+      "name": "海报墙",
       "url": "https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/png-512/grid.png"
     }
   ]

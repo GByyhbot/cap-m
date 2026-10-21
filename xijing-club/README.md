@@ -8,8 +8,8 @@
 
 | 预览 | 预览 | 预览 | 预览 | 预览 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="./png-512/home.png" width="100" alt="首页" /><br />首页<br />宅得理直气壮 | <img src="./png-512/search.png" width="100" alt="搜索" /><br />搜索<br />瞪大眼找片 | <img src="./png-512/favorites.png" width="100" alt="收藏" /><br />收藏<br />心动抱紧紧 | <img src="./png-512/movies.png" width="100" alt="电影" /><br />电影<br />导演请开饭 | <img src="./png-512/anime.png" width="100" alt="动漫" /><br />动漫<br />热血不用加热 |
-| <img src="./png-512/hot.png" width="100" alt="热门" /><br />热门<br />热到冒汗 | <img src="./png-512/play.png" width="100" alt="播放" /><br />播放<br />开饭式观影 | <img src="./png-512/pause.png" width="100" alt="暂停" /><br />暂停<br />中场嚼两口 | <img src="./png-512/cloud.png" width="100" alt="云盘" /><br />云盘<br />云上躺一会儿 | <img src="./png-512/error.png" width="100" alt="出错" /><br />出错<br />爆米花翻车了 |
+| <img src="./png-512/home.png" width="100" alt="首页" /><br />首页 | <img src="./png-512/search.png" width="100" alt="搜索" /><br />搜索 | <img src="./png-512/favorites.png" width="100" alt="收藏" /><br />收藏 | <img src="./png-512/movies.png" width="100" alt="电影" /><br />电影 | <img src="./png-512/anime.png" width="100" alt="动漫" /><br />动漫 |
+| <img src="./png-512/hot.png" width="100" alt="热门" /><br />热门 | <img src="./png-512/play.png" width="100" alt="播放" /><br />播放 | <img src="./png-512/pause.png" width="100" alt="暂停" /><br />暂停 | <img src="./png-512/cloud.png" width="100" alt="云盘" /><br />云盘 | <img src="./png-512/error.png" width="100" alt="出错" /><br />出错 |
 
 ### 怎么导入
 
