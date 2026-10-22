@@ -21,6 +21,17 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/icons.json
 
 ## 资源卡片配置包
 
+适用于 **[CapyPlayer（卡皮巴拉播放器）](https://capyplayer.feifeiduck.com)** 与 **[REX 播放器](https://rexnow.tv)**。
+
+### 版本选择
+
+| 版本 | 规则数量 | 内容 | 配置链接 |
+| --- | ---: | --- | --- |
+| 普通版（推荐） | 727 | 不包含成人分类 | [pppboom.json](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json) |
+| 包含成人的完整版本 | 1,556 | 普通版全部内容，以及独立分类的成人厂牌与目录代码中性索引 | [pppboom-adult.json](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom-adult.json) |
+
+> **REX 目前对大量规则的支持仍有限，请选用普通版本 `pppboom.json`。** 两个版本不要同时导入，避免重复规则；具体功能以播放器当前版本为准。
+
 让资源卡片上的平台、画质、音效和字幕标签更有趣。这里展示 20 个图标：
 
 | 预览 | 预览 | 预览 | 预览 |
@@ -33,7 +44,10 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/icons.json
 
 ### 怎么导入
 
-复制下面的[资源卡片配置包导入链接](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json)，打开 **REX → 设置 → 外观与交互**，导入资源卡片配置包。
+- **REX**：复制下方普通版链接，打开 **设置 → 外观与交互**，导入资源卡片配置包。
+- **CapyPlayer（卡皮巴拉播放器）**：在播放器的资源徽章／规则配置导入入口，粘贴所选版本的 JSON 链接；入口名称以实际版本为准。
+
+[普通版导入链接](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json)
 
 ```text
 https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json
