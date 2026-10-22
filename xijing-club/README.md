@@ -23,6 +23,8 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/icons.json
 
 适用于 **[CapyPlayer（卡皮巴拉播放器）](https://capyplayer.feifeiduck.com)** 与 **[REX 播放器](https://rexnow.tv)**。
 
+部分分类标记来源于 [CapyPlayer Telegram 群组](https://t.me/capyplayer2025) 的 [@xinyue1314](https://t.me/xinyue1314) 大佬，感谢分享与贡献。
+
 ### 版本选择
 
 | 版本 | 规则数量 | 内容 | 配置链接 |
@@ -47,8 +49,24 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/icons.json
 - **REX**：复制下方普通版链接，打开 **设置 → 外观与交互**，导入资源卡片配置包。
 - **CapyPlayer（卡皮巴拉播放器）**：在播放器的资源徽章／规则配置导入入口，粘贴所选版本的 JSON 链接；入口名称以实际版本为准。
 
-[普通版导入链接](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json)
+#### 普通版（727 项，REX 推荐）
+
+[打开普通版配置](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json)
+
+点击下方代码块右上角的复制按钮，复制完整导入地址：
 
 ```text
 https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json
+```
+
+#### 包含成人的完整版本（1,556 项）
+
+包含普通版全部内容，以及成人厂牌与目录代码的独立分类。**REX 用户请选上方普通版。**
+
+[打开包含成人的完整配置](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom-adult.json)
+
+点击下方代码块右上角的复制按钮，复制完整导入地址：
+
+```text
+https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom-adult.json
 ```
