@@ -73,6 +73,18 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom-adult.js
 
 ### @xinyue1314 原版
 
+#### 原版去成人分类版（493 项）
+
+仅从原版移除成人专用分类，保留其余 13 个分类、原有规则与图标地址，不混入本站重绘图标。此拆分版本由本仓库维护，不代表原作者发布或背书；不保证与原版自动同步。
+
+[打开原版去成人分类版](https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/xinyue4capyplayer-general.json)
+
+```text
+https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/xinyue4capyplayer-general.json
+```
+
+#### 原作者完整版本
+
 [原版配置导入链接](https://media-badges.app.workbuddy.host/xinyue4capyplayer.json)（由原作者维护，与本站两个版本独立）。可点击代码块右上角按钮复制：
 
 ```text
