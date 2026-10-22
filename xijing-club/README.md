@@ -25,14 +25,6 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/icons.json
 
 部分分类标记来源于 [CapyPlayer Telegram 群组](https://t.me/capyplayer2025) 的 [@xinyue1314](https://t.me/xinyue1314) 大佬，感谢分享与贡献。
 
-### @xinyue1314 原版
-
-[原版配置导入链接](https://media-badges.app.workbuddy.host/xinyue4capyplayer.json)（由原作者维护，与本站两个版本独立）。可点击代码块右上角按钮复制：
-
-```text
-https://media-badges.app.workbuddy.host/xinyue4capyplayer.json
-```
-
 ### 版本选择
 
 | 版本 | 规则数量 | 内容 | 配置链接 |
@@ -77,4 +69,12 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom.json
 
 ```text
 https://raw.githubusercontent.com/zxxlxj/rex-m/main/xijing-club/pppboom-adult.json
+```
+
+### @xinyue1314 原版
+
+[原版配置导入链接](https://media-badges.app.workbuddy.host/xinyue4capyplayer.json)（由原作者维护，与本站两个版本独立）。可点击代码块右上角按钮复制：
+
+```text
+https://media-badges.app.workbuddy.host/xinyue4capyplayer.json
 ```
