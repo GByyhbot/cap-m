@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.1.0" width="128" alt="MANIA 爆米花小怪兽" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zxxlxj/rex-m/main/assets/mania.png?v=2.1.1" width="128" alt="MANIA 爆米花小怪兽" /></p>
 
 # MANIA
 
@@ -6,7 +6,7 @@
 
 连接你自行部署的媒体服务，获取资源并播放。
 
-当前版本：**2.1.0**。请先更新服务器，再更新模块；新增分类需要服务器支持资源库协议 3。
+当前版本：**2.1.1**。请先更新服务器，再更新模块；新增分类需要服务器支持资源库协议 3。
 
 ## 导入模块
 
@@ -23,6 +23,14 @@ https://raw.githubusercontent.com/zxxlxj/rex-m/main/mania.rex
 3. 在 REX 中将“全部电影”“全部剧集”或所需分类添加到资源库，分类入口可以选择更细的子分类。
 
 资源库只展示自部署服务中已缓存的媒体；播放账号和模块说明在各自入口管理。
+
+## 2.1.1 更新
+
+- 减少点击播放后的等待：有效播放凭证直接交给播放器，不再额外等待直链同步；本机已有有效直链继续复用。
+- 缓存写入失败时仍能播放当前资源，避免混用新旧资源信息和凭证。
+- 新版服务器在起播时暂停后台分类回填并自动恢复，分批重建和清理分类；账号与鉴权读取使用只读连接，账号变更仍立即生效。
+
+刷新模块即可获得模块端优化；服务端优化需同步部署新版主程序。
 
 ## 2.1.0 更新
 
